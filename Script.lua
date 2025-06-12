@@ -1,1 +1,1 @@
-print("Hi")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheHunterSolo1/Cobra-Spy/main/Main.lua"))()
